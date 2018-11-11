@@ -5,3 +5,5 @@ This assumes you already have a scanner connected to your computer that can scan
 'dlstring.txt' in the same directory as the 'decoder.py' script. While the txt file is open, Scan the barcode. The encoded data should be pasted into the txt file.
 
 now just run the script with the command "python decoder.py" and it will output the data to a file called 'dlstringdecoded.txt'
+
+Credit to Charlee (https://charlee.li/drivers-license-decoding.html). I used this link to help me know which codes mean what
